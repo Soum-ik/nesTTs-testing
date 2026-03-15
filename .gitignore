@@ -43,9 +43,9 @@ Thumbs.db
 .env.local
 .env.*.local
 
-# Jupyter
-.ipynb_checkpoints/
-
+# Jupytre
+.ipynb_checkpoints
+/
 # Model / data artifacts (if you generate outputs)
 *.pt
 *.pth
